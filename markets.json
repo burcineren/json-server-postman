@@ -1,0 +1,124 @@
+{
+  "markets": [
+    {
+      "id": "1",
+      "name": "Market A",
+      "sections": [
+        {
+          "id": "R1",
+          "type": "gıda",
+          "products": [
+            {
+              "id": "534",
+              "name": "bulgur"
+            }
+          ]
+        },
+        {
+          "id": "R2",
+          "type": "temizlik",
+          "products": [
+            {
+              "id": 7,
+              "name": "Sabun"
+            },
+            {
+              "id": "12345",
+              "name": "deterjan"
+            }
+          ]
+        },
+        {
+          "id": "R4",
+          "type": "kırtasiye",
+          "products": [
+            {
+              "id": 5,
+              "name": "Bez"
+            }
+          ]
+        },
+        {
+          "id": "R4",
+          "type": "kozmetik",
+          "products": [
+            {
+              "id": "53",
+              "name": "kalem"
+            }
+          ]
+        },
+        {
+          "id": "R5",
+          "type": "elektronik",
+          "products": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Market B",
+      "sections": [
+        {
+          "id": "R1",
+          "type": "gıda",
+          "products": [
+            {
+              "id": 10,
+              "name": "Un"
+            }
+          ]
+        },
+        {
+          "id": "R2",
+          "type": "kozmetik",
+          "products": [
+            {
+              "id": 11,
+              "name": "Makarna"
+            }
+          ]
+        },
+        {
+          "id": "R3",
+          "type": "kırtasiye",
+          "products": [
+            {
+              "id": 9,
+              "name": "Ekmek"
+            }
+          ]
+        },
+        {
+          "id": "R4",
+          "type": "kırtasiye",
+          "products": [
+            {
+              "id": 6,
+              "name": "Deterjan"
+            },
+            {
+              "id": "3333334",
+              "name": "test"
+            }
+          ]
+        },
+        {
+          "id": "R5",
+          "type": "kozmetik",
+          "products": []
+        }
+      ]
+    }
+  ],
+  "sectionTypes": [
+    {
+      "gıda": "gıda",
+      "temizlik": "temizlik",
+      "kırtasiye": "kırtasiye",
+      "kozmetik": "kozmetik",
+      "elektronik": "elektronik",
+      "id": "181a"
+    }
+  ]
+}

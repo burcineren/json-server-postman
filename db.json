@@ -4103,15 +4103,375 @@
       "body": "perspiciatis quis doloremque\nveniam nisi eos velit sed\nid totam inventore voluptatem laborum et eveniet\naut aut aut maxime quia temporibus ut omnis"
     }
   ],
-  "reservations": [],
-  "reservation": [
+  "reservations": [
+    {
+      "id": "22ce",
+      "checkInDate": "2024-11-06T21:00:00.000Z",
+      "checkOutDate": "2024-11-17T21:00:00.000Z",
+      "guestName": "aaa",
+      "guestEmail": "aaaa@gmail.com",
+      "roomNumber": 3
+    },
+    {
+      "id": "5db4",
+      "checkInDate": "2024-11-04",
+      "checkOutDate": "2024-11-21",
+      "guestName": "tets",
+      "guestEmail": "test@hotmial.com",
+      "roomNumber": 55
+    },
+    {
+      "checkInDate": "2024-11-03T21:00:00.000Z",
+      "checkOutDate": "2024-11-12T21:00:00.000Z",
+      "guestName": "testbb",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 45,
+      "id": "6420"
+    },
+    {
+      "id": "5896",
+      "checkInDate": "2024-11-02T21:00:00.000Z",
+      "checkOutDate": "2024-11-10T21:00:00.000Z",
+      "guestName": "testburçinnnn",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 44
+    },
+    {
+      "id": "d6ed",
+      "checkInDate": "2024-11-02T21:00:00.000Z",
+      "checkOutDate": "2024-11-16T21:00:00.000Z",
+      "guestName": "deneme",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 55
+    },
+    {
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-13T21:00:00.000Z",
+      "guestName": "testburcinnn44",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 55,
+      "id": "db9b"
+    },
+    {
+      "id": "799b",
+      "checkInDate": "2024-11-03T21:00:00.000Z",
+      "checkOutDate": "2024-11-03T21:00:00.000Z",
+      "guestName": "test",
+      "guestEmail": "test55@email.com",
+      "roomNumber": 66
+    },
+    {
+      "id": "06d5",
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-09T21:00:00.000Z",
+      "guestName": "elo",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 88
+    },
+    {
+      "id": "5d82",
+      "checkInDate": "2024-11-09T21:00:00.000Z",
+      "checkOutDate": "2024-11-10T21:00:00.000Z",
+      "guestName": "yasemin test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 88
+    },
+    {
+      "id": "250b",
+      "checkInDate": "2024-11-09T21:00:00.000Z",
+      "checkOutDate": "2024-11-10T21:00:00.000Z",
+      "guestName": "yasemin test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 88
+    },
+    {
+      "id": "c630",
+      "checkInDate": "2024-11-06T21:00:00.000Z",
+      "checkOutDate": "2024-11-18T21:00:00.000Z",
+      "guestName": "eren test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 3
+    },
+    {
+      "id": "f42e",
+      "checkInDate": "2024-11-06T21:00:00.000Z",
+      "checkOutDate": "2024-11-18T21:00:00.000Z",
+      "guestName": "eren test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 3
+    },
+    {
+      "id": "7c20",
+      "checkInDate": "2024-11-03T21:00:00.000Z",
+      "checkOutDate": "2024-11-26T21:00:00.000Z",
+      "guestName": "bbbb44",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 66
+    },
+    {
+      "id": "c5cd",
+      "checkInDate": "2024-11-03T21:00:00.000Z",
+      "checkOutDate": "2024-11-26T21:00:00.000Z",
+      "guestName": "bbbb44",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 66
+    },
+    {
+      "id": "deb6",
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-25T21:00:00.000Z",
+      "guestName": "testson",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 66
+    },
+    {
+      "id": "0736",
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-25T21:00:00.000Z",
+      "guestName": "testson",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 66
+    },
+    {
+      "id": "7ace",
+      "checkInDate": "2024-11-16T21:00:00.000Z",
+      "checkOutDate": "2024-11-25T21:00:00.000Z",
+      "guestName": "asasasasas",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 55
+    },
+    {
+      "id": "52ba",
+      "checkInDate": "2024-11-18T21:00:00.000Z",
+      "checkOutDate": "2024-11-10T21:00:00.000Z",
+      "guestName": "state test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 4
+    },
+    {
+      "id": "071f",
+      "checkInDate": "2024-11-18T21:00:00.000Z",
+      "checkOutDate": "2024-11-10T21:00:00.000Z",
+      "guestName": "state test",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 4
+    },
+    {
+      "id": "e7bc",
+      "checkInDate": "2024-11-03T21:00:00.000Z",
+      "checkOutDate": "2024-11-25T21:00:00.000Z",
+      "guestName": "bbbtest",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 66666
+    },
+    {
+      "id": "9709",
+      "checkInDate": "2024-11-02T21:00:00.000Z",
+      "checkOutDate": "2024-11-12T21:00:00.000Z",
+      "guestName": "test",
+      "guestEmail": "test55@email.com",
+      "roomNumber": 555
+    },
+    {
+      "id": "35da",
+      "checkInDate": "2024-11-02T21:00:00.000Z",
+      "checkOutDate": "2024-11-12T21:00:00.000Z",
+      "guestName": "test",
+      "guestEmail": "test55@email.com",
+      "roomNumber": 555
+    },
+    {
+      "id": "bb4c",
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-19T21:00:00.000Z",
+      "guestName": "sidar",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 6
+    },
+    {
+      "checkInDate": "2024-11-10T21:00:00.000Z",
+      "checkOutDate": "2024-11-19T21:00:00.000Z",
+      "guestName": "sidarfffdf",
+      "guestEmail": "burcineeren@gmail.com",
+      "roomNumber": 6,
+      "id": "e10a"
+    }
+  ],
+  "reservation": [],
+  "products": [
+    {
+      "id": "4",
+      "name": "Bird",
+      "price": 89,
+      "image_url": "tst.jpg"
+    }
+  ],
+  "markets": [
     {
       "id": "1",
-      "guestName": "burçin",
-      "guestEmail": "burcin@test.com",
-      "roomNumber": 100,
-      "checkInDate": "2024-01-03",
-      "checkOutDate": "2024-01-04"
+      "name": "Market A",
+      "sections": [
+        {
+          "id": "R1",
+          "type": "gıda",
+          "products": [
+            {
+              "id": 1,
+              "name": "Pirinç"
+            },
+            {
+              "id": 2,
+              "name": "Ekmek"
+            },
+            {
+              "id": 3,
+              "name": "Un"
+            },
+            {
+              "id": 4,
+              "name": "Makarna"
+            },
+            {
+              "id": "333333",
+              "name": "test"
+            },
+            {
+              "id": "33333",
+              "name": "dddd"
+            }
+          ]
+        },
+        {
+          "id": "R2",
+          "type": "temizlik",
+          "products": [
+            {
+              "id": 5,
+              "name": "Bez"
+            },
+            {
+              "id": 6,
+              "name": "Deterjan"
+            },
+            {
+              "id": 7,
+              "name": "Sabun"
+            },
+            {
+              "id": 8,
+              "name": "Sünger"
+            },
+            {
+              "id": "333333",
+              "name": "aaaa"
+            }
+          ]
+        },
+        {
+          "id": "R3",
+          "type": "[object Object]",
+          "products": [
+            {
+              "id": "333333",
+              "name": "555"
+            }
+          ]
+        },
+        {
+          "id": "R4",
+          "type": "kırtasiye",
+          "products": []
+        },
+        {
+          "id": "R4",
+          "type": "kozmetik",
+          "products": []
+        },
+        {
+          "id": "R6",
+          "type": "kozmetik",
+          "products": []
+        },
+        {
+          "id": "R7",
+          "type": "kırtasiye",
+          "products": []
+        },
+        {
+          "id": "R8",
+          "type": "elektronik",
+          "products": [
+            {
+              "id": "33333",
+              "name": "dfdsfdsfds"
+            }
+          ]
+        },
+        {
+          "id": "R9",
+          "type": "kozmetik",
+          "products": []
+        },
+        {
+          "id": "R10",
+          "type": "elektronik",
+          "products": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Market B",
+      "sections": [
+        {
+          "id": "R1",
+          "type": "gıda",
+          "products": [
+            {
+              "id": 9,
+              "name": "Ekmek"
+            },
+            {
+              "id": 10,
+              "name": "Un"
+            },
+            {
+              "id": 11,
+              "name": "Makarna"
+            }
+          ]
+        },
+        {
+          "id": "R2",
+          "type": "kozmetik",
+          "products": []
+        },
+        {
+          "id": "R3",
+          "type": "kırtasiye",
+          "products": []
+        },
+        {
+          "id": "R4",
+          "type": "kırtasiye",
+          "products": []
+        },
+        {
+          "id": "R5",
+          "type": "kozmetik",
+          "products": []
+        }
+      ]
+    }
+  ],
+  "sectionTypes": [
+    {
+      "gıda": "gıda",
+      "temizlik": "temizlik",
+      "kırtasiye": "kırtasiye",
+      "kozmetik": "kozmetik",
+      "elektronik": "elektronik",
+      "id": "181a"
     }
   ]
 }
